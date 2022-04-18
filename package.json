@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "connect-livereload": "^0.6.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "livereload": "^0.9.3",
+    "mongoose": "^6.3.0"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "watch": "nodemon --ext js,ejs --ignore public"
+  }
+}
