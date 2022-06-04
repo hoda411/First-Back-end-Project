@@ -1,5 +1,5 @@
 # Back-end-Project
-First-Back-end-Project Using (Express &amp; NodeJs ) and Database(mongodb)
+First-Back-end-Project Using (Express) and Database(mongodb)
 
 
 Instructions about how to use : 
